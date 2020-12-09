@@ -159,7 +159,6 @@ A Ruby client library for Rockset.
 ---------------
 
 #### `exec_qlambda`
-(qlambda, version, parameters=[], workspace="commons"
 **Description**: Execute a query lambda \
 **Parameters**: 
 * qlambda: The name of the query lambda to be executed, required, string
