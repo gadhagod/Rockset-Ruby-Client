@@ -1,7 +1,7 @@
 # Rockset Ruby Client
 A Ruby client library for Rockset.
 
-![](https://img.shields.io/gem/v/rockset)
+![](https://img.shields.io/gem/dt/rockset?color=darkred)
 
 ## Installation
 
